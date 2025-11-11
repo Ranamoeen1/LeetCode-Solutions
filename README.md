@@ -12,6 +12,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
+| [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,4 +60,8 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
