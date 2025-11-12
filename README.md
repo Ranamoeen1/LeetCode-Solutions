@@ -45,6 +45,7 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -60,8 +61,13 @@
 | ------- |
 | [0100-same-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
