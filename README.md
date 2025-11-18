@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## String
 |  |
 | ------- |
@@ -85,4 +87,12 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
