@@ -89,6 +89,7 @@
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0155-min-stack) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -105,4 +106,8 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
