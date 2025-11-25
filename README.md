@@ -89,6 +89,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Binary Search Tree
 |  |
@@ -134,4 +135,8 @@
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
