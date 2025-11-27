@@ -31,6 +31,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
+| [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 ## Linked List
@@ -50,6 +51,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
@@ -121,6 +123,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Design
 |  |
