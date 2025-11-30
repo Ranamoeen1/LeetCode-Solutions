@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
@@ -52,6 +53,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
@@ -144,6 +146,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 ## Interactive
 |  |
@@ -157,4 +160,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
