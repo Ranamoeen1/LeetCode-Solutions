@@ -12,6 +12,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0016-3sum-closest](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
@@ -24,6 +25,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -179,4 +181,8 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
