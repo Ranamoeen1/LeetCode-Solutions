@@ -64,6 +64,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
 | ------- |
@@ -123,6 +124,7 @@
 | [0155-min-stack](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,6 +162,7 @@
 | ------- |
 | [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Interactive
 |  |
 | ------- |
