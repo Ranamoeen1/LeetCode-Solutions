@@ -6,6 +6,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
@@ -19,6 +20,7 @@
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0066-plus-one](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
