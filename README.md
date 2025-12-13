@@ -10,6 +10,7 @@
 | [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
@@ -123,6 +124,7 @@
 | [0069-sqrtx](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 ## Binary Search Tree
 |  |
