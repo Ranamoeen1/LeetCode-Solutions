@@ -23,6 +23,7 @@
 | [0035-search-insert-position](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -37,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -206,6 +208,7 @@
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0088-merge-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 ## Trie
 |  |
 | ------- |
