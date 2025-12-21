@@ -33,6 +33,7 @@
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 ## String Matching
 |  |
@@ -246,4 +248,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+## Greedy
+|  |
+| ------- |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 <!---LeetCode Topics End-->
