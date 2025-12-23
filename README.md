@@ -35,6 +35,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Two Pointers
 |  |
 | ------- |
@@ -160,6 +161,7 @@
 | [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -184,6 +186,7 @@
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Memoization
 |  |
 | ------- |
@@ -247,6 +250,7 @@
 | ------- |
 | [0016-3sum-closest](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
+| [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Trie
 |  |
 | ------- |
@@ -255,4 +259,8 @@
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
