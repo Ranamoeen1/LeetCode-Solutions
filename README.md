@@ -91,6 +91,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## String Matching
 |  |
 | ------- |
@@ -241,6 +242,7 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 ## Divide and Conquer
 |  |
 | ------- |
