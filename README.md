@@ -35,6 +35,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -166,6 +167,7 @@
 | [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search Tree
 |  |
@@ -276,4 +278,8 @@
 | ------- |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+## Matrix
+|  |
+| ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 <!---LeetCode Topics End-->
