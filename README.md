@@ -38,6 +38,7 @@
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -135,6 +136,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -146,6 +148,7 @@
 | [0112-path-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
 | ------- |
@@ -173,6 +176,7 @@
 | [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 ## Binary Search Tree
 |  |
@@ -289,8 +293,13 @@
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Backtracking
 |  |
 | ------- |
 | [0756-pyramid-transition-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
+## Union Find
+|  |
+| ------- |
+| [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 <!---LeetCode Topics End-->
