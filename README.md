@@ -14,6 +14,7 @@
 | [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
 | [0840-magic-squares-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1390-four-divisors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1390-four-divisors) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1390-four-divisors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
