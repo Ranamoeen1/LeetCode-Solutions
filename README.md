@@ -130,6 +130,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -144,6 +145,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -156,6 +158,7 @@
 | [0112-path-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Binary Tree
 |  |
@@ -174,6 +177,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
