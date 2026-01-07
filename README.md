@@ -131,6 +131,7 @@
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -146,6 +147,7 @@
 | [0207-course-schedule](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 ## Breadth-First Search
 |  |
@@ -178,6 +180,7 @@
 | [0226-invert-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0226-invert-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search
 |  |
 | ------- |
