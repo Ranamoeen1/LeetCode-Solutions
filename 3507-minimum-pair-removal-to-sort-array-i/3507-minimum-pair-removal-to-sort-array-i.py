@@ -5,10 +5,8 @@ class Solution:
             return 0
         
         operations = 0
-        # Make a copy to work with
         arr = nums.copy()
         
-        # Helper to check if array is non-decreasing
         def is_non_decreasing(arr):
             for i in range(len(arr) - 1):
                 if arr[i] > arr[i + 1]:
@@ -16,7 +14,6 @@ class Solution:
             return True
         
         while not is_non_decreasing(arr):
-            # Find the adjacent pair with minimum sum
             min_sum = float('inf')
             min_index = -1
             
