@@ -1,31 +1,31 @@
-class Solution:
-    def minPartitions(self, n: str) -> int:
-        from functools import reduce
+# class Solution:
+#     def minPartitions(self, n: str) -> int:
+#         from functools import reduce
         
-        # Use reduce to find maximum digit
-        def get_max(a, b):
-            return a if a > int(b) else int(b)
+#         # Use reduce to find maximum digit
+#         def get_max(a, b):
+#             return a if a > int(b) else int(b)
         
-        return reduce(get_max, n, 0)
+#         return reduce(get_max, n, 0)
 
 # class Solution:
 #     def minPartitions(self, n: str) -> int:
 #         # Convert string to list of integers and find max
 #         digits = [int(d) for d in n]
-#         return max(digits)
+        # return max(digits)
 
-# class Solution:
-#     def minPartitions(self, n: str) -> int:
-#         result = 0
-#         for digit in n:
-#             # Convert char to int and update maximum
-#             current = ord(digit) - ord('0')
-#             if current > result:
-#                 result = current
-#             # Early termination if we found the maximum possible digit
-#             if result == 9:
-#                 return 9
-#         return result
+class Solution:
+    def minPartitions(self, n: str) -> int:
+        result = 0
+        for digit in n:
+            # Convert char to int and update maximum
+            current = ord(digit) - ord('0')
+            if current > result:
+                result = current
+            # Early termination if we found the maximum possible digit
+            if result == 9:
+                return 9
+        return result
 
 # class Solution:
 #     def minPartitions(self, n: str) -> int:
