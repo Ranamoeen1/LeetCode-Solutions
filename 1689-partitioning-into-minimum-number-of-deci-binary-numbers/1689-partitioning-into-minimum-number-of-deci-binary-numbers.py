@@ -1,7 +1,20 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        # Find the maximum character and convert to integer
-        return int(max(n, key=lambda x: int(x)))
+        result = 0
+        for digit in n:
+            # Convert char to int and update maximum
+            current = ord(digit) - ord('0')
+            if current > result:
+                result = current
+            # Early termination if we found the maximum possible digit
+            if result == 9:
+                return 9
+        return result
+
+# class Solution:
+#     def minPartitions(self, n: str) -> int:
+#         # Find the maximum character and convert to integer
+#         return int(max(n, key=lambda x: int(x)))
 
 
 # class Solution:
