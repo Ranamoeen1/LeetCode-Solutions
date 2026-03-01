@@ -1,15 +1,21 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        result = 0
-        for digit in n:
-            # Convert char to int and update maximum
-            current = ord(digit) - ord('0')
-            if current > result:
-                result = current
-            # Early termination if we found the maximum possible digit
-            if result == 9:
-                return 9
-        return result
+        # Convert string to list of integers and find max
+        digits = [int(d) for d in n]
+        return max(digits)
+
+# class Solution:
+#     def minPartitions(self, n: str) -> int:
+#         result = 0
+#         for digit in n:
+#             # Convert char to int and update maximum
+#             current = ord(digit) - ord('0')
+#             if current > result:
+#                 result = current
+#             # Early termination if we found the maximum possible digit
+#             if result == 9:
+#                 return 9
+#         return result
 
 # class Solution:
 #     def minPartitions(self, n: str) -> int:
