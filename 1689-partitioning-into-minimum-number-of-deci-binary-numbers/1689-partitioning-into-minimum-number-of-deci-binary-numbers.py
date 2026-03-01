@@ -1,8 +1,18 @@
 class Solution:
     def minPartitions(self, n: str) -> int:
-        # Convert string to list of integers and find max
-        digits = [int(d) for d in n]
-        return max(digits)
+        from functools import reduce
+        
+        # Use reduce to find maximum digit
+        def get_max(a, b):
+            return a if a > int(b) else int(b)
+        
+        return reduce(get_max, n, 0)
+
+# class Solution:
+#     def minPartitions(self, n: str) -> int:
+#         # Convert string to list of integers and find max
+#         digits = [int(d) for d in n]
+#         return max(digits)
 
 # class Solution:
 #     def minPartitions(self, n: str) -> int:
