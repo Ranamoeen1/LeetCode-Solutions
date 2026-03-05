@@ -59,20 +59,32 @@
 #         return min(count, len(s) - count)
 
 
+# class Solution:
+#     def minOperations(self, s: str) -> int:
+#         n = len(s)
+#         count1 = 0  # operations for pattern starting with '0'
+        
+#         for i in range(n):
+#             # Convert character to integer (0 or 1)
+#             current = ord(s[i]) - ord('0')
+            
+#             # For pattern starting with '0', expected value is i % 2
+#             expected = i % 2
+            
+#             if current != expected:
+#                 count1 += 1
+        
+#         count2 = n - count1
+#         return min(count1, count2)
+
+
+
 class Solution:
     def minOperations(self, s: str) -> int:
         n = len(s)
-        count1 = 0  # operations for pattern starting with '0'
         
-        for i in range(n):
-            # Convert character to integer (0 or 1)
-            current = ord(s[i]) - ord('0')
-            
-            # For pattern starting with '0', expected value is i % 2
-            expected = i % 2
-            
-            if current != expected:
-                count1 += 1
+        # Count mismatches for pattern starting with '0'
+        count = sum(1 for i, ch in enumerate(s) 
+                    if (i % 2 == 0 and ch != '0') or (i % 2 == 1 and ch != '1'))
         
-        count2 = n - count1
-        return min(count1, count2)
+        return min(count, n - count)
