@@ -21,19 +21,39 @@
         
 #         return min(operations_start_with_0, operations_start_with_1)
 
+# class Solution:
+#     def minOperations(self, s: str) -> int:
+#         n = len(s)
+#         operations_start_with_0 = 0
+        
+#         for i in range(n):
+#             # Expected character for pattern starting with '0'
+#             expected = '0' if i % 2 == 0 else '1'
+            
+#             if s[i] != expected:
+#                 operations_start_with_0 += 1
+        
+#         # The other pattern will need the remaining operations
+#         operations_start_with_1 = n - operations_start_with_0
+        
+#         return min(operations_start_with_0, operations_start_with_1)
+
+
 class Solution:
     def minOperations(self, s: str) -> int:
-        n = len(s)
-        operations_start_with_0 = 0
+        count = 0
         
-        for i in range(n):
-            # Expected character for pattern starting with '0'
-            expected = '0' if i % 2 == 0 else '1'
-            
-            if s[i] != expected:
-                operations_start_with_0 += 1
+        for i in range(len(s)):
+            # For pattern starting with '0', at even index we need '0'
+            if i % 2 == 0:
+                if s[i] == '0':
+                    # Counts for pattern starting with '1' increase
+                    count += 1
+            else:  # i % 2 == 1
+                if s[i] == '1':
+                    # Counts for pattern starting with '1' increase
+                    count += 1
         
-        # The other pattern will need the remaining operations
-        operations_start_with_1 = n - operations_start_with_0
-        
-        return min(operations_start_with_0, operations_start_with_1)
+        # count represents operations needed for pattern starting with '1'
+        # So operations for pattern starting with '0' is n - count
+        return min(count, len(s) - count)
