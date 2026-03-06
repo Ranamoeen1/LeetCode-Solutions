@@ -7,15 +7,26 @@
         
 #         return '1' not in s[zero_index:]
 
+# class Solution:
+#     def checkOnesSegment(self, s: str) -> bool:
+     
+#         found_zero = False
+        
+#         for i in range(len(s)):
+#             if s[i] == '0':
+#                 found_zero = True
+#             elif found_zero and s[i] == '1':
+#                 return False
+        
+#         return True
+
+
 class Solution:
     def checkOnesSegment(self, s: str) -> bool:
-     
-        found_zero = False
+        count_01 = 0
         
-        for i in range(len(s)):
-            if s[i] == '0':
-                found_zero = True
-            elif found_zero and s[i] == '1':
-                return False
-        
-        return True
+        for i in range(len(s) - 1):
+            if s[i] == '0' and s[i+1] == '1':
+                count_01 += 1
+       
+        return count_01 == 0
