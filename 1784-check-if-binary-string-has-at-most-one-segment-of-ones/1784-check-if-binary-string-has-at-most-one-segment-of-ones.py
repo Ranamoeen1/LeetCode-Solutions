@@ -21,12 +21,19 @@
 #         return True
 
 
+# class Solution:
+#     def checkOnesSegment(self, s: str) -> bool:
+#         count_01 = 0
+        
+#         for i in range(len(s) - 1):
+#             if s[i] == '0' and s[i+1] == '1':
+#                 count_01 += 1
+       
+#         return count_01 == 0
+
+
+
 class Solution:
     def checkOnesSegment(self, s: str) -> bool:
-        count_01 = 0
-        
-        for i in range(len(s) - 1):
-            if s[i] == '0' and s[i+1] == '1':
-                count_01 += 1
-       
-        return count_01 == 0
+        import re
+        return bool(re.match(r'^1+0*$', s))
