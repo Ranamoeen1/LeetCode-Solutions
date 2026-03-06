@@ -1,18 +1,18 @@
-class Solution:
-    def checkOnesSegment(self, s: str) -> bool:
-        import re
-        return bool(re.match(r'^1+0*$', s))
-
-
-
 # class Solution:
 #     def checkOnesSegment(self, s: str) -> bool:
-#         zero_index = s.find('0')
+#         import re
+#         return bool(re.match(r'^1+0*$', s))
+
+
+
+class Solution:
+    def checkOnesSegment(self, s: str) -> bool:
+        zero_index = s.find('0')
         
-#         if zero_index == -1:
-#             return True
+        if zero_index == -1:
+            return True
         
-#         return '1' not in s[zero_index:]
+        return '1' not in s[zero_index:]
 
 # class Solution:
 #     def checkOnesSegment(self, s: str) -> bool:
