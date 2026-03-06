@@ -33,7 +33,19 @@
 
 
 
+# class Solution:
+#     def checkOnesSegment(self, s: str) -> bool:
+#         import re
+#         return bool(re.match(r'^1+0*$', s))
+
+
 class Solution:
     def checkOnesSegment(self, s: str) -> bool:
-        import re
-        return bool(re.match(r'^1+0*$', s))
+        compressed = []
+        for i in range(len(s)):
+            if i == 0 or s[i] != s[i-1]:
+                compressed.append(s[i])
+        
+        ones_count = compressed.count('1')
+        
+        return ones_count <= 1
