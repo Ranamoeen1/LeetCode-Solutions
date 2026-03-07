@@ -1,53 +1,53 @@
-# class Solution:
-#     def minFlips(self, s: str) -> int:
-#         n = len(s)
-#         s2 = s + s
+class Solution:
+    def minFlips(self, s: str) -> int:
+        n = len(s)
+        s2 = s + s
         
       
-#         mismatches0 = 0 
-#         mismatches1 = 0  
+        mismatches0 = 0 
+        mismatches1 = 0  
         
-#         for i in range(n):
-#             if i % 2 == 0:
-#                 if s2[i] != '0':
-#                     mismatches0 += 1
-#                 if s2[i] != '1':
-#                     mismatches1 += 1
-#             else:
-#                 if s2[i] != '1':
-#                     mismatches0 += 1
-#                 if s2[i] != '0':
-#                     mismatches1 += 1
+        for i in range(n):
+            if i % 2 == 0:
+                if s2[i] != '0':
+                    mismatches0 += 1
+                if s2[i] != '1':
+                    mismatches1 += 1
+            else:
+                if s2[i] != '1':
+                    mismatches0 += 1
+                if s2[i] != '0':
+                    mismatches1 += 1
         
-#         ans = min(mismatches0, mismatches1)
+        ans = min(mismatches0, mismatches1)
         
-#         for i in range(1, n):
+        for i in range(1, n):
            
-#             if (i-1) % 2 == 0:  
-#                 if s2[i-1] != '0':
-#                     mismatches0 -= 1
-#                 if s2[i-1] != '1':
-#                     mismatches1 -= 1
-#             else:
-#                 if s2[i-1] != '1':
-#                     mismatches0 -= 1
-#                 if s2[i-1] != '0':
-#                     mismatches1 -= 1
+            if (i-1) % 2 == 0:  
+                if s2[i-1] != '0':
+                    mismatches0 -= 1
+                if s2[i-1] != '1':
+                    mismatches1 -= 1
+            else:
+                if s2[i-1] != '1':
+                    mismatches0 -= 1
+                if s2[i-1] != '0':
+                    mismatches1 -= 1
        
-#             if (i+n-1) % 2 == 0:
-#                 if s2[i+n-1] != '0':
-#                     mismatches0 += 1
-#                 if s2[i+n-1] != '1':
-#                     mismatches1 += 1
-#             else:
-#                 if s2[i+n-1] != '1':
-#                     mismatches0 += 1
-#                 if s2[i+n-1] != '0':
-#                     mismatches1 += 1
+            if (i+n-1) % 2 == 0:
+                if s2[i+n-1] != '0':
+                    mismatches0 += 1
+                if s2[i+n-1] != '1':
+                    mismatches1 += 1
+            else:
+                if s2[i+n-1] != '1':
+                    mismatches0 += 1
+                if s2[i+n-1] != '0':
+                    mismatches1 += 1
             
-#             ans = min(ans, mismatches0, mismatches1)
+            ans = min(ans, mismatches0, mismatches1)
         
-#         return ans
+        return ans
 
 # class Solution:
 #     def minFlips(self, s: str) -> int:
@@ -101,37 +101,37 @@
         
 #         return min_flips
 
-class Solution:
-    def minFlips(self, s: str) -> int:
-        n = len(s)
-        s2 = s + s
-        alt1, alt2 = '', ''
+# class Solution:
+#     def minFlips(self, s: str) -> int:
+#         n = len(s)
+#         s2 = s + s
+#         alt1, alt2 = '', ''
         
-        # Generate alternating patterns
-        for i in range(2*n):
-            alt1 += '0' if i % 2 == 0 else '1'
-            alt2 += '1' if i % 2 == 0 else '0'
+#         # Generate alternating patterns
+#         for i in range(2*n):
+#             alt1 += '0' if i % 2 == 0 else '1'
+#             alt2 += '1' if i % 2 == 0 else '0'
         
-        # Count differences
-        diff1, diff2 = 0, 0
-        result = float('inf')
+#         # Count differences
+#         diff1, diff2 = 0, 0
+#         result = float('inf')
         
-        # Sliding window
-        for i in range(2*n):
-            if s2[i] != alt1[i]:
-                diff1 += 1
-            if s2[i] != alt2[i]:
-                diff2 += 1
+#         # Sliding window
+#         for i in range(2*n):
+#             if s2[i] != alt1[i]:
+#                 diff1 += 1
+#             if s2[i] != alt2[i]:
+#                 diff2 += 1
             
-            # When window size reaches n, we have a valid rotation
-            if i >= n:
-                if s2[i-n] != alt1[i-n]:
-                    diff1 -= 1
-                if s2[i-n] != alt2[i-n]:
-                    diff2 -= 1
+#             # When window size reaches n, we have a valid rotation
+#             if i >= n:
+#                 if s2[i-n] != alt1[i-n]:
+#                     diff1 -= 1
+#                 if s2[i-n] != alt2[i-n]:
+#                     diff2 -= 1
             
-            # Update result when we have a complete window
-            if i >= n-1:
-                result = min(result, diff1, diff2)
+#             # Update result when we have a complete window
+#             if i >= n-1:
+#                 result = min(result, diff1, diff2)
         
-        return result
+#         return result
