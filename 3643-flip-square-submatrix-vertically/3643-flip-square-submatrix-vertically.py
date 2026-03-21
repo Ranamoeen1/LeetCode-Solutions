@@ -1,61 +1,78 @@
+# # # # class Solution:
+# # # #     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
+# # # #         # Extract the rows of the submatrix
+# # # #         submatrix_rows = [grid[x + i][y:y + k] for i in range(k)]
+        
+# # # #         # Reverse the order of rows
+# # # #         submatrix_rows.reverse()
+        
+# # # #         # Place the reversed rows back into the grid
+# # # #         for i in range(k):
+# # # #             grid[x + i][y:y + k] = submatrix_rows[i]
+        
+# # # #         return grid
+
 # # # class Solution:
 # # #     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
-# # #         # Extract the rows of the submatrix
-# # #         submatrix_rows = [grid[x + i][y:y + k] for i in range(k)]
+# # #         # Two pointers: top and bottom rows of the submatrix
+# # #         top = x
+# # #         bottom = x + k - 1
         
-# # #         # Reverse the order of rows
-# # #         submatrix_rows.reverse()
-        
-# # #         # Place the reversed rows back into the grid
-# # #         for i in range(k):
-# # #             grid[x + i][y:y + k] = submatrix_rows[i]
+# # #         while top < bottom:
+# # #             # Swap the entire rows within the submatrix column range
+# # #             for col in range(y, y + k):
+# # #                 grid[top][col], grid[bottom][col] = grid[bottom][col], grid[top][col]
+# # #             top += 1
+# # #             bottom -= 1
         
 # # #         return grid
 
+
+
 # # class Solution:
 # #     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
-# #         # Two pointers: top and bottom rows of the submatrix
-# #         top = x
-# #         bottom = x + k - 1
+# #         # Create a deep copy to avoid modifying the original (if needed)
+# #         result = [row[:] for row in grid]
         
-# #         while top < bottom:
-# #             # Swap the entire rows within the submatrix column range
-# #             for col in range(y, y + k):
-# #                 grid[top][col], grid[bottom][col] = grid[bottom][col], grid[top][col]
-# #             top += 1
-# #             bottom -= 1
+# #         # Extract the rows to reverse
+# #         rows_to_reverse = [grid[x + i][y:y + k] for i in range(k)]
         
-# #         return grid
+# #         # Reverse the rows
+# #         rows_to_reverse.reverse()
+        
+# #         # Place them back in the result
+# #         for i in range(k):
+# #             result[x + i][y:y + k] = rows_to_reverse[i]
+        
+# #         return result
 
 
+# from typing import List
+# import numpy as np
 
 # class Solution:
 #     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
-#         # Create a deep copy to avoid modifying the original (if needed)
-#         result = [row[:] for row in grid]
+#         # Convert to numpy array
+#         arr = np.array(grid)
         
-#         # Extract the rows to reverse
-#         rows_to_reverse = [grid[x + i][y:y + k] for i in range(k)]
+#         # Extract submatrix, reverse rows, and assign back
+#         arr[x:x+k, y:y+k] = arr[x:x+k, y:y+k][::-1, :]
         
-#         # Reverse the rows
-#         rows_to_reverse.reverse()
-        
-#         # Place them back in the result
-#         for i in range(k):
-#             result[x + i][y:y + k] = rows_to_reverse[i]
-        
-#         return result
-
+#         return arr.tolist()
 
 from typing import List
-import numpy as np
+from collections import deque
 
 class Solution:
     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
-        # Convert to numpy array
-        arr = np.array(grid)
+        # Extract the rows of the submatrix
+        submatrix = deque([grid[x + i][y:y + k] for i in range(k)])
         
-        # Extract submatrix, reverse rows, and assign back
-        arr[x:x+k, y:y+k] = arr[x:x+k, y:y+k][::-1, :]
+        # Reverse the deque
+        submatrix.reverse()
         
-        return arr.tolist()
+        # Place back
+        for i in range(k):
+            grid[x + i][y:y + k] = submatrix[i]
+        
+        return grid
