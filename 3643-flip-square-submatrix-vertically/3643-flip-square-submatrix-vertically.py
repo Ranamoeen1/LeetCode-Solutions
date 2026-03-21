@@ -1,13 +1,28 @@
+# class Solution:
+#     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
+#         # Extract the rows of the submatrix
+#         submatrix_rows = [grid[x + i][y:y + k] for i in range(k)]
+        
+#         # Reverse the order of rows
+#         submatrix_rows.reverse()
+        
+#         # Place the reversed rows back into the grid
+#         for i in range(k):
+#             grid[x + i][y:y + k] = submatrix_rows[i]
+        
+#         return grid
+
 class Solution:
     def reverseSubmatrix(self, grid: List[List[int]], x: int, y: int, k: int) -> List[List[int]]:
-        # Extract the rows of the submatrix
-        submatrix_rows = [grid[x + i][y:y + k] for i in range(k)]
+        # Two pointers: top and bottom rows of the submatrix
+        top = x
+        bottom = x + k - 1
         
-        # Reverse the order of rows
-        submatrix_rows.reverse()
-        
-        # Place the reversed rows back into the grid
-        for i in range(k):
-            grid[x + i][y:y + k] = submatrix_rows[i]
+        while top < bottom:
+            # Swap the entire rows within the submatrix column range
+            for col in range(y, y + k):
+                grid[top][col], grid[bottom][col] = grid[bottom][col], grid[top][col]
+            top += 1
+            bottom -= 1
         
         return grid
