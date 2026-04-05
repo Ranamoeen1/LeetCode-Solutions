@@ -1,8 +1,11 @@
+# class Solution:
+#     def judgeCircle(self, moves: str) -> bool:
+#         counts = Counter(moves)
+#         return counts['U'] == counts['D'] and counts['L'] == counts['R']
+
 class Solution:
     def judgeCircle(self, moves: str) -> bool:
-        counts = Counter(moves)
-        return counts['U'] == counts['D'] and counts['L'] == counts['R']
-
+        return moves.count('U') == moves.count('D') and moves.count('L') == moves.count('R')
 
 # class Solution:
 #     def judgeCircle(self, moves: str) -> bool:
