@@ -100,6 +100,7 @@
 | [3640-trionic-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Two Pointers
@@ -406,6 +407,7 @@
 | [3379-transformed-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Interactive
 |  |
 | ------- |
@@ -459,6 +461,7 @@
 | [0190-reverse-bits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3721-longest-balanced-subarray-ii) |
 ## Sorting
