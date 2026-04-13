@@ -1,13 +1,13 @@
-# # # # class Solution:
-# # # #     def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
-# # # #         min_distance = float('inf')
+class Solution:
+    def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
+        min_distance = float('inf')
         
-# # # #         for i, num in enumerate(nums):
-# # # #             if num == target:
-# # # #                 distance = abs(i - start)
-# # # #                 min_distance = min(min_distance, distance)
+        for i, num in enumerate(nums):
+            if num == target:
+                distance = abs(i - start)
+                min_distance = min(min_distance, distance)
         
-# # # #         return min_distance
+        return min_distance
 
 # # # class Solution:
 # # #     def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
@@ -68,6 +68,6 @@
         
 #         return min_distance
 
-class Solution:
-    def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
-        return min(abs(i - start) for i, num in enumerate(nums) if num == target)
+# class Solution:
+#     def getMinDistance(self, nums: List[int], target: int, start: int) -> int:
+#         return min(abs(i - start) for i, num in enumerate(nums) if num == target)
