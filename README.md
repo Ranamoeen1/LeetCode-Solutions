@@ -74,6 +74,7 @@
 | [1980-find-unique-binary-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -522,6 +523,7 @@
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
