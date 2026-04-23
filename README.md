@@ -80,6 +80,7 @@
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2615-sum-of-distances](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2751-robot-collisions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -151,6 +152,7 @@
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1980-find-unique-binary-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1980-find-unique-binary-string) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2615-sum-of-distances](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -470,6 +472,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [1895-largest-magic-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
+| [2615-sum-of-distances](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
