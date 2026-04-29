@@ -98,6 +98,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3315-construct-the-minimum-bitwise-array-ii) |
@@ -388,6 +389,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3640-trionic-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
@@ -487,6 +489,7 @@
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3714-longest-balanced-substring-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3714-longest-balanced-substring-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -584,6 +587,7 @@
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
+| [3225-maximum-score-from-grid-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
