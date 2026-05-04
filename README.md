@@ -7,6 +7,7 @@
 | [0002-add-two-numbers](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0069-sqrtx) |
@@ -36,6 +37,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
@@ -572,6 +574,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0840-magic-squares-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
