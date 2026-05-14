@@ -1,13 +1,13 @@
-# from collections import Counter
+from collections import Counter
 
-# class Solution:
-#     def isGood(self, nums: List[int]) -> bool:
-#         n = len(nums) - 1
-#         if n < 1: return False
+class Solution:
+    def isGood(self, nums: List[int]) -> bool:
+        n = len(nums) - 1
+        if n < 1: return False
         
-#         counts = Counter(nums)
+        counts = Counter(nums)
         
-#         return max(nums) == n and len(counts) == n and counts[n] == 2
+        return max(nums) == n and len(counts) == n and counts[n] == 2
 
 
 
@@ -32,27 +32,27 @@
 # #         return nums == target
 
 
-class Solution:
-    def isGood(self, nums: List[int]) -> bool:
-        n = len(nums) - 1
-        # If the array is empty or too small, it can't be 'base[n]'
-        if n < 1: 
-            return False
+# class Solution:
+#     def isGood(self, nums: List[int]) -> bool:
+#         n = len(nums) - 1
+#         # If the array is empty or too small, it can't be 'base[n]'
+#         if n < 1: 
+#             return False
         
-        # Frequency array to store counts of numbers 1 to n
-        # We use n + 1 size to accommodate the index 'n'
-        counts = [0] * (n + 1)
+#         # Frequency array to store counts of numbers 1 to n
+#         # We use n + 1 size to accommodate the index 'n'
+#         counts = [0] * (n + 1)
         
-        for x in nums:
-            # If any number is greater than n, it's immediately invalid
-            if x > n:
-                return False
-            counts[x] += 1
+#         for x in nums:
+#             # If any number is greater than n, it's immediately invalid
+#             if x > n:
+#                 return False
+#             counts[x] += 1
             
-        # Check counts: 1 to n-1 must appear once
-        for i in range(1, n):
-            if counts[i] != 1:
-                return False
+#         # Check counts: 1 to n-1 must appear once
+#         for i in range(1, n):
+#             if counts[i] != 1:
+#                 return False
         
-        # The number n must appear exactly twice
-        return counts[n] == 2
+#         # The number n must appear exactly twice
+#         return counts[n] == 2
