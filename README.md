@@ -44,6 +44,7 @@
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -350,6 +351,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0367-valid-perfect-square) |
