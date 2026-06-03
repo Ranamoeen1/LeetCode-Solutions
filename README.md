@@ -140,6 +140,7 @@
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3637-trionic-array-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3640-trionic-array-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
@@ -170,6 +171,7 @@
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2540-minimum-common-value](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 ## Hash Table
 |  |
@@ -402,6 +404,7 @@
 | [3488-closest-equal-element-queries](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -602,6 +605,7 @@
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Trie
 |  |
 | ------- |
@@ -630,6 +634,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
