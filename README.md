@@ -126,6 +126,7 @@
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
@@ -222,6 +223,7 @@
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2840-check-if-strings-can-be-made-equal-with-operations-ii) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3488-closest-equal-element-queries](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3488-closest-equal-element-queries) |
@@ -770,6 +772,7 @@
 | ------- |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3751-total-waviness-of-numbers-in-range-i) |
