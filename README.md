@@ -122,6 +122,7 @@
 | [2751-robot-collisions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2751-robot-collisions) |
 | [2770-maximum-number-of-jumps-to-reach-the-last-index](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2770-maximum-number-of-jumps-to-reach-the-last-index) |
 | [2784-check-if-array-is-good](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2784-check-if-array-is-good) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2976-minimum-cost-to-convert-string-i) |
@@ -394,6 +395,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -437,6 +439,7 @@
 | [1970-last-day-where-you-can-still-cross](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2540-minimum-common-value](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2540-minimum-common-value) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3161-block-placement-queries](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3453-separate-squares-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
@@ -707,6 +710,7 @@
 | [1878-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1878-get-biggest-three-rhombus-sums-in-a-grid) |
 | [2054-two-best-non-overlapping-events](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -735,6 +739,7 @@
 | [1975-maximum-matrix-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1975-maximum-matrix-sum) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3225-maximum-score-from-grid-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3225-maximum-score-from-grid-operations) |
@@ -822,6 +827,7 @@
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
 ## Minimum Spanning Tree
 |  |
