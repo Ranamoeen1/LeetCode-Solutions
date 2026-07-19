@@ -310,6 +310,7 @@
 | [0944-delete-columns-to-make-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0960-delete-columns-to-make-sorted-iii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1189-maximum-number-of-balloons) |
 | [1320-minimum-distance-to-type-a-word-using-two-fingers](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1320-minimum-distance-to-type-a-word-using-two-fingers) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -496,6 +497,7 @@
 | [0155-min-stack](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -576,6 +578,7 @@
 | ------- |
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -723,6 +726,7 @@
 |  |
 | ------- |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
