@@ -3,20 +3,51 @@ class Solution:
         m, n = len(grid), len(grid[0])
         total = m * n
         
-        # Optimize shift count
         k %= total
         if k == 0:
             return grid
+            
+        # Helper function to reverse a segment using 1D index mapping
+        def reverse(start_idx: int, end_idx: int):
+            while start_idx < end_idx:
+                r1, c1 = divmod(start_idx, n)
+                r2, c2 = divmod(end_idx, n)
+                grid[r1][c1], grid[r2][c2] = grid[r2][c2], grid[r1][c1]
+                start_idx += 1
+                end_idx -= 1
+
+        # 1. Reverse the entire flattened grid
+        reverse(0, total - 1)
+        # 2. Reverse the first k elements
+        reverse(0, k - 1)
+        # 3. Reverse the remaining total - k elements
+        reverse(k, total - 1)
         
-        # Step 1: Flatten the grid into a 1D list
-        flat = [val for row in grid for val in row]
+        return grid
+
+
+
+
+
+# class Solution:
+#     def shiftGrid(self, grid: List[List[int]], k: int) -> List[List[int]]:
+#         m, n = len(grid), len(grid[0])
+#         total = m * n
         
-        # Step 2: Rotate the 1D list using Python slicing
-        # Moves the last k elements to the front
-        shifted = flat[-k:] + flat[:-k]
+#         # Optimize shift count
+#         k %= total
+#         if k == 0:
+#             return grid
         
-        # Step 3: Reshape back into an m x n 2D grid
-        return [shifted[i * n : (i + 1) * n] for i in range(m)]
+#         # Step 1: Flatten the grid into a 1D list
+#         flat = [val for row in grid for val in row]
+        
+#         # Step 2: Rotate the 1D list using Python slicing
+#         # Moves the last k elements to the front
+#         shifted = flat[-k:] + flat[:-k]
+        
+#         # Step 3: Reshape back into an m x n 2D grid
+#         return [shifted[i * n : (i + 1) * n] for i in range(m)]
 
 
 
