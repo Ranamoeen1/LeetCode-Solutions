@@ -350,6 +350,7 @@
 | [3474-lexicographically-smallest-generated-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3474-lexicographically-smallest-generated-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3612-process-string-with-special-operations-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3614-process-string-with-special-operations-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3713-longest-balanced-substring-i) |
@@ -724,6 +725,7 @@
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3536-maximum-product-of-two-digits) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
@@ -927,6 +929,7 @@
 |  |
 | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1833-maximum-ice-cream-bars) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Merge Sort
 |  |
 | ------- |
