@@ -1,7 +1,7 @@
 class Solution:
 
     def smallestNumber(self, num: str, t: int) -> str:
-        # Prime factorize t into 2, 3, 5, and 7
+        # Step 1: Prime factorize t into 2, 3, 5, and 7
         t2 = t3 = t5 = t7 = 0
         temp_t = t
         for p in (2, 3, 5, 7):
@@ -18,65 +18,83 @@ class Solution:
             elif p == 7:
                 t7 = c
 
-        # If t has prime factors other than 2, 3, 5, 7, it's impossible
+        # Prime factors other than 2, 3, 5, 7 cannot be formed by single digits
         if temp_t > 1:
             return "-1"
 
-        # Factor contributions for digits 1..9
-        DIGIT_FACTORS = {
-            1: (0, 0, 0, 0),
-            2: (1, 0, 0, 0),
-            3: (0, 1, 0, 0),
-            4: (2, 0, 0, 0),
-            5: (0, 0, 1, 0),
-            6: (1, 1, 0, 0),
-            7: (0, 0, 0, 1),
-            8: (3, 0, 0, 0),
-            9: (0, 2, 0, 0),
-        }
+        # Factor contributions for digits 1..9: (f2, f3, f5, f7)
+        DIGIT_FACTORS = [
+            (0, 0, 0, 0),  # 0 (unused)
+            (0, 0, 0, 0),  # 1
+            (1, 0, 0, 0),  # 2
+            (0, 1, 0, 0),  # 3
+            (2, 0, 0, 0),  # 4
+            (0, 0, 1, 0),  # 5
+            (1, 1, 0, 0),  # 6
+            (0, 0, 0, 1),  # 7
+            (3, 0, 0, 0),  # 8
+            (0, 2, 0, 0),  # 9
+        ]
 
-        def min_digits(rc2, rc3, rc5, rc7):
-            """Calculates minimum digits needed to achieve at least required factor counts."""
-            if rc2 <= 0 and rc3 <= 0 and rc5 <= 0 and rc7 <= 0:
-                return 0
-            rc2 = max(0, rc2)
-            rc3 = max(0, rc3)
-            rc5 = max(0, rc5)
-            rc7 = max(0, rc7)
+        def get_suffix_digits(rc2: int, rc3: int, rc5: int, rc7: int) -> list:
+            """Returns the lexicographically smallest sorted list of digits
 
-            ans = rc5 + rc7
-            min_23 = float("inf")
+            needed to satisfy remaining factor requirements.
+            """
+            rc2, rc3, rc5, rc7 = (
+                max(0, rc2),
+                max(0, rc3),
+                max(0, rc5),
+                max(0, rc7),
+            )
+
+            best_digits = None
+            best_key = (float("inf"), "")
+
+            # Iterate over the count of '6's (combining one 2 and one 3)
             max_k = min(rc2, rc3)
-
-            # Try using k sixes (which cover one 2 and one 3 each)
             for k in range(max_k + 1):
-                rem3 = rc3 - k
                 rem2 = rc2 - k
-                d3 = (rem3 + 1) // 2 if rem3 > 0 else 0
-                d2 = (rem2 + 2) // 3 if rem2 > 0 else 0
-                min_23 = min(min_23, k + d3 + d2)
+                rem3 = rc3 - k
 
-            return ans + min_23
+                c8, r2 = divmod(rem2, 3)
+                c9, r3 = divmod(rem3, 2)
+
+                digits = [6] * k + [8] * c8 + [9] * c9
+                if r2 == 2:
+                    digits.append(4)
+                elif r2 == 1:
+                    digits.append(2)
+
+                if r3 == 1:
+                    digits.append(3)
+
+                digits.extend([5] * rc5)
+                digits.extend([7] * rc7)
+                digits.sort()
+
+                key = (len(digits), "".join(map(str, digits)))
+                if key < best_key:
+                    best_key = key
+                    best_digits = digits
+
+            return best_digits if best_digits is not None else []
 
         n = len(num)
         first_zero = num.find("0")
 
-        # Precompute prefix factor counts
-        pref2 = [0] * (n + 1)
-        pref3 = [0] * (n + 1)
-        pref5 = [0] * (n + 1)
-        pref7 = [0] * (n + 1)
-
+        # Step 2: Precompute prefix factor counts up to the first zero (if any)
+        pref2, pref3, pref5, pref7 = [0] * (n + 1), [0] * (n + 1), [0] * (n + 1), [0] * (n + 1)
         limit = n if first_zero == -1 else first_zero
+
         for k in range(limit):
-            d_val = int(num[k])
-            f2, f3, f5, f7 = DIGIT_FACTORS[d_val]
+            f2, f3, f5, f7 = DIGIT_FACTORS[int(num[k])]
             pref2[k + 1] = pref2[k] + f2
             pref3[k + 1] = pref3[k] + f3
             pref5[k + 1] = pref5[k] + f5
             pref7[k + 1] = pref7[k] + f7
 
-        # Check if num itself is valid
+        # Step 3: Check if num itself is valid
         if first_zero == -1:
             if (
                 pref2[n] >= t2
@@ -86,7 +104,7 @@ class Solution:
             ):
                 return num
 
-        # Search for valid number of length n by changing digit at index i
+        # Step 4: Search right-to-left for the first valid (i, d) replacement
         start_i = n - 1 if first_zero == -1 else first_zero
 
         for i in range(start_i, -1, -1):
@@ -100,59 +118,24 @@ class Solution:
 
             for d in range(start_d, 10):
                 f2, f3, f5, f7 = DIGIT_FACTORS[d]
-                rc2 = max(0, t2 - (c2_pref + f2))
-                rc3 = max(0, t3 - (c3_pref + f3))
-                rc5 = max(0, t5 - (c5_pref + f5))
-                rc7 = max(0, t7 - (c7_pref + f7))
+                rc2 = t2 - (c2_pref + f2)
+                rc3 = t3 - (c3_pref + f3)
+                rc5 = t5 - (c5_pref + f5)
+                rc7 = t7 - (c7_pref + f7)
 
+                suffix_digits = get_suffix_digits(rc2, rc3, rc5, rc7)
                 rem_len = n - 1 - i
-                if min_digits(rc2, rc3, rc5, rc7) <= rem_len:
-                    # Construct smallest valid suffix greedily
-                    ans_list = [num[:i], str(d)]
-                    curr_c2 = c2_pref + f2
-                    curr_c3 = c3_pref + f3
-                    curr_c5 = c5_pref + f5
-                    curr_c7 = c7_pref + f7
 
-                    for j in range(rem_len):
-                        rem_pos = rem_len - 1 - j
-                        for sd in range(1, 10):
-                            sf2, sf3, sf5, sf7 = DIGIT_FACTORS[sd]
-                            n_rc2 = max(0, t2 - (curr_c2 + sf2))
-                            n_rc3 = max(0, t3 - (curr_c3 + sf3))
-                            n_rc5 = max(0, t5 - (curr_c5 + sf5))
-                            n_rc7 = max(0, t7 - (curr_c7 + sf7))
+                if len(suffix_digits) <= rem_len:
+                    ones_count = rem_len - len(suffix_digits)
+                    suffix_str = "1" * ones_count + "".join(
+                        map(str, suffix_digits)
+                    )
+                    return num[:i] + str(d) + suffix_str
 
-                            if min_digits(n_rc2, n_rc3, n_rc5, n_rc7) <= rem_pos:
-                                ans_list.append(str(sd))
-                                curr_c2 += sf2
-                                curr_c3 += sf3
-                                curr_c5 += sf5
-                                curr_c7 += sf7
-                                break
+        # Step 5: If no valid number of length n exists, expand to length > n
+        min_s_digits = get_suffix_digits(t2, t3, t5, t7)
+        target_len = max(n + 1, len(min_s_digits))
+        ones_count = target_len - len(min_s_digits)
 
-                    return "".join(ans_list)
-
-        # If length n is not possible, construct for length target_len > n
-        target_len = max(n + 1, min_digits(t2, t3, t5, t7))
-        ans_list = []
-        curr_c2 = curr_c3 = curr_c5 = curr_c7 = 0
-
-        for j in range(target_len):
-            rem_pos = target_len - 1 - j
-            for sd in range(1, 10):
-                sf2, sf3, sf5, sf7 = DIGIT_FACTORS[sd]
-                n_rc2 = max(0, t2 - (curr_c2 + sf2))
-                n_rc3 = max(0, t3 - (curr_c3 + sf3))
-                n_rc5 = max(0, t5 - (curr_c5 + sf5))
-                n_rc7 = max(0, t7 - (curr_c7 + sf7))
-
-                if min_digits(n_rc2, n_rc3, n_rc5, n_rc7) <= rem_pos:
-                    ans_list.append(str(sd))
-                    curr_c2 += sf2
-                    curr_c3 += sf3
-                    curr_c5 += sf5
-                    curr_c7 += sf7
-                    break
-
-        return "".join(ans_list)
+        return "1" * ones_count + "".join(map(str, min_s_digits))
