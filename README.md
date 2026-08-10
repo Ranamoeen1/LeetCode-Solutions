@@ -23,6 +23,7 @@
 | [1344-angle-between-hands-of-a-clock](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1390-four-divisors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1622-fancy-sequence](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1840-maximum-building-height](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1840-maximum-building-height) |
@@ -550,6 +551,7 @@
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1458-max-dot-product-of-two-subsequences) |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1871-jump-game-vii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1871-jump-game-vii) |
@@ -976,12 +978,23 @@
 | ------- |
 | [0877-stone-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
