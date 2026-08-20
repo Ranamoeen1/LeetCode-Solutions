@@ -165,6 +165,7 @@
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -652,6 +653,7 @@
 | [2402-meeting-rooms-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2402-meeting-rooms-iii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2553-separate-the-digits-in-an-array) |
 | [2751-robot-collisions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2751-robot-collisions) |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3379-transformed-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
