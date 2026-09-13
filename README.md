@@ -88,6 +88,7 @@
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
+| [0835-image-overlap](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [0874-walking-robot-simulation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0874-walking-robot-simulation) |
 | [0877-stone-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0877-stone-game) |
@@ -892,6 +893,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0835-image-overlap](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0840-magic-squares-in-grid) |
 | [1260-shift-2d-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1260-shift-2d-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
