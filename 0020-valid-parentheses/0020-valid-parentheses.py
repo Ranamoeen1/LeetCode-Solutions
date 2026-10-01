@@ -1,22 +1,21 @@
 class Solution:
-    def checking(self , s:str):
-        if ")" in s:
-            return "("
-        if "}" in s:
-            return "{"
-        else:
-            return "["
-
-    def isValid(self, s:str) -> bool:
-        stack = []
-        for i in s:
-            if i in "([{":
-                stack.append(i)
-            else:
-                if len(stack) != 0 and stack[-1] == self.checking(i):
-                    stack.pop()
-                else:
-                    return False
+    def isValid(self, s: str) -> bool:
+        # Quick check: odd length strings can never be balanced
+        if len(s) % 2 != 0:
+            return False
             
-
-        return not stack
+        stack = []
+        matching_map = {')': '(', '}': '{', ']': '['}
+        
+        for char in s:
+            if char in matching_map:
+                # Pop the top element if stack is non-empty, else assign dummy value
+                top_element = stack.pop() if stack else '#'
+                if matching_map[char] != top_element:
+                    return False
+            else:
+                # Push opening brackets onto the stack
+                stack.append(char)
+                
+        # If stack is empty, all brackets were validly matched
+        return len(stack) == 0
