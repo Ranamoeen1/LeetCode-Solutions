@@ -382,6 +382,7 @@
 | [0383-ransom-note](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0657-robot-return-to-origin](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0657-robot-return-to-origin) |
+| [0678-valid-parenthesis-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0696-count-binary-substrings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0756-pyramid-transition-matrix) |
@@ -608,6 +609,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0682-baseball-game](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0682-baseball-game) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1096-brace-expansion-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1096-brace-expansion-ii) |
@@ -626,6 +628,7 @@
 | [0053-maximum-subarray](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
+| [0678-valid-parenthesis-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0788-rotated-digits) |
 | [0799-champagne-tower](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0799-champagne-tower) |
@@ -885,6 +888,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
@@ -1151,6 +1155,7 @@
 | [0020-valid-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0678-valid-parenthesis-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
