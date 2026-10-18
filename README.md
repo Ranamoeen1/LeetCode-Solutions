@@ -27,6 +27,7 @@
 | [1406-stone-game-iii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1622-fancy-sequence](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1622-fancy-sequence) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
@@ -125,6 +126,7 @@
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1563-stone-game-v](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -489,6 +491,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
@@ -568,6 +571,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2196-create-binary-tree-from-descriptions) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search
@@ -615,6 +619,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0783-search-in-a-binary-search-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Stack
 |  |
 | ------- |
@@ -666,6 +671,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1653-minimum-deletions-to-make-string-balanced) |
@@ -696,6 +702,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1013-fibonacci-number) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Queue
 |  |
 | ------- |
@@ -846,6 +853,7 @@
 | [0190-reverse-bits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0190-reverse-bits) |
 | [0761-special-binary-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1382-balance-a-binary-search-tree) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3655-xor-after-range-multiplication-queries-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3655-xor-after-range-multiplication-queries-ii) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3719-longest-balanced-subarray-i) |
@@ -1108,6 +1116,7 @@
 | ------- |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1559-detect-cycles-in-2d-grid) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1722-minimize-hamming-distance-after-swap-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1722-minimize-hamming-distance-after-swap-operations) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2573-find-the-string-with-lcp](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2573-find-the-string-with-lcp) |
@@ -1148,6 +1157,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1200,4 +1210,8 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
