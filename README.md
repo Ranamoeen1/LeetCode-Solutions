@@ -38,6 +38,7 @@
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2029-stone-game-ix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2029-stone-game-ix) |
 | [2033-minimum-operations-to-make-a-uni-value-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2033-minimum-operations-to-make-a-uni-value-grid) |
+| [2409-count-days-spent-together](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -438,6 +439,7 @@
 | [2075-decode-the-slanted-ciphertext](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2075-decode-the-slanted-ciphertext) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [2409-count-days-spent-together](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2409-count-days-spent-together) |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2452-words-within-two-edits-of-dictionary) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2483-minimum-penalty-for-a-shop) |
