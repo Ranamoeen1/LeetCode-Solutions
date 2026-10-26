@@ -235,6 +235,7 @@
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
@@ -533,6 +534,7 @@
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3310-remove-methods-from-project](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3559-number-of-ways-to-assign-edge-weights-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3559-number-of-ways-to-assign-edge-weights-ii) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -559,6 +561,7 @@
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3629-minimum-jumps-to-reach-end-via-prime-teleportation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3629-minimum-jumps-to-reach-end-via-prime-teleportation) |
 ## Binary Tree
 |  |
@@ -1029,6 +1032,7 @@
 | [3548-equal-sum-grid-partition-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3548-equal-sum-grid-partition-ii) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3643-flip-square-submatrix-vertically](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Backtracking
@@ -1142,6 +1146,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3600-maximize-spanning-tree-stability-with-upgrades](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3600-maximize-spanning-tree-stability-with-upgrades) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
