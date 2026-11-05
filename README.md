@@ -125,6 +125,7 @@
 | [1345-jump-game-iv](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1345-jump-game-iv) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1386-cinema-seat-allocation) |
 | [1390-four-divisors](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
@@ -293,6 +294,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0696-count-binary-substrings](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0696-count-binary-substrings) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -619,6 +621,7 @@
 | [0792-binary-search](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0792-binary-search) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1855-maximum-distance-between-a-pair-of-values) |
@@ -913,6 +916,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1340-jump-game-v](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1340-jump-game-v) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1665-minimum-initial-energy-to-finish-tasks) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1727-largest-submatrix-with-rearrangements) |
