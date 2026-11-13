@@ -227,6 +227,7 @@
 | [3379-transformed-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3379-transformed-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3453-separate-squares-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3464-maximize-the-distance-between-points-on-a-square](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3464-maximize-the-distance-between-points-on-a-square) |
@@ -689,6 +690,7 @@
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2751-robot-collisions) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -754,6 +756,7 @@
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Counting
 |  |
 | ------- |
@@ -790,6 +793,7 @@
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3634-minimum-removals-to-balance-array) |
 ## Monotonic Stack
@@ -798,6 +802,7 @@
 | [0085-maximal-rectangle](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Simulation
 |  |
 | ------- |
@@ -1115,6 +1120,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3161-block-placement-queries](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3161-block-placement-queries) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3454-separate-squares-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3454-separate-squares-ii) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3525-find-x-value-of-array-ii) |
@@ -1293,4 +1299,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ranamoeen1/LeetCode-Solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
